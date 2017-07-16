@@ -28,7 +28,7 @@ npm install babel-preset-es2015 babel-preset-stage-2 --save-dev
 ......
 ```
 
-## Step 4: Add a test configuration file `testSetup.js` under the project root folder
+## Step 4: Add a test configuration file `testSetup.js` under the project root folder
 
 ```javascript
 'use strict';
